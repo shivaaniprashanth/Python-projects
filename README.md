@@ -1,3 +1,4 @@
 # Python-projects
-First project: Band Name Generator; file name: bandname.py
-Second project: Tip Calculator; file name: tipcal.py
+1. Band Name Generator; file name: bandname.py
+2. Tip Calculator; file name: tipcal.py
+3. Treasure Island; file name: treasure_island.py
