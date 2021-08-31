@@ -5,6 +5,6 @@
 4. Rock, paper, scissors; file name: rock-paper.py
 5. Password Generator; file name: pypassword.py
 6. Beginner Hangman; file name: hangman.py
-7. Caesar cipher
+7. Caesar cipher; file name: caesar-cipher.py
 8. Secret auction program
 9. 
