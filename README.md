@@ -6,5 +6,5 @@
 5. Password Generator; file name: pypassword.py
 6. Beginner Hangman; file name: hangman.py
 7. Caesar cipher; file name: caesar-cipher.py
-8. Secret auction program
+8. Secret auction program; file name: auction.py
 9. 
