@@ -7,4 +7,4 @@
 6. Beginner Hangman; file name: hangman.py
 7. Caesar cipher; file name: caesar-cipher.py
 8. Secret auction program; file name: auction.py
-9. 
+9. Simple Calculator; file name: calci.py
