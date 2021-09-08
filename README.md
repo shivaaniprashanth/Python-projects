@@ -9,3 +9,6 @@
 8. Secret auction program; file name: auction.py
 9. Simple Calculator; file name: calci.py
 10. BlackJack; file name: blackjack.py
+11. Number guessing game; file name:guess_the_number.py
+12. Higher lower game; file name: high_or_low.py
+13. coffee machine; file name: coffee.py
